@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Maria. I'm a developer evangelist.
+
+You can reach me on [Bluesky](https://bsky.app/profile/mariablake.bsky.social) and [X](https://x.com/mariablakex)
+
 <!--
 **maria-blake/maria-blake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
